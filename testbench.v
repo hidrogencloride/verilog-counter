@@ -1,4 +1,9 @@
-
+/* ***STILL WORKING ON THIS TEST BENCH***
+Authors: Bryan Pesquera
+Description: Up or Down counter test bench design simulated 
+using Icarus Verilog 0.10.0 11/23/14 on edaplayground.com
+Date: Feb. 22, 2017.
+*/
 
 module counter_tb();
   reg clk, rst, ld, upDown, d;
