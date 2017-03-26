@@ -1,4 +1,9 @@
-
+/*
+Authors: Bryan Pesquera
+Description: Up or Down counter design simulated 
+using Icarus Verilog 0.10.0 11/23/14 on edaplayground.com
+Date: Feb. 22, 2017.
+*/
 
 module counter(clk, rst, upDown, ld, q, d);
   output reg [3:0] q;	//output
